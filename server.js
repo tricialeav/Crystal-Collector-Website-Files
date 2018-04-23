@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3001;
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-app.use(express.static("client/public"));
+app.use(express.static("client/build"));
 app.use(routes);
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/comments");
