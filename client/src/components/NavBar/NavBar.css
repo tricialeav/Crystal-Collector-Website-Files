@@ -1,0 +1,26 @@
+.nav {
+    background-color: rgba(190, 186, 186, 0.467); 
+    color: white; 
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+}
+
+.nav a:hover {
+    text-decoration: underline !important;
+    font-size: 1rem; 
+}
+
+.nav-link {
+    color: white; 
+    font-size: 1rem;
+    font-family: 'IM Fell English SC', serif;
+    text-align: center; 
+}
+
+@media all and (max-width: 1000px) {
+    .nav-link {
+        font-size: 1.5rem; 
+    }
+    .nav a:hover {
+        font-size: 1.5rem;
+    }
+}

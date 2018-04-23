@@ -1,0 +1,17 @@
+.icon {
+    margin: 10px;
+}
+
+.icon,
+.fa-2x
+.fa-2x:hover {
+    font-size: 1em;
+}
+
+#copyright {
+    font-size: .5rem;
+}
+
+#footer {
+    margin-top: 100px;
+}

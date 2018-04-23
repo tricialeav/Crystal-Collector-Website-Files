@@ -1,0 +1,36 @@
+body {
+    background-image: url("./MakingTheGameImg/screenshot3ps.png");
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.colorOnly,
+.colorNHover,
+list {
+    background: rgba(0, 75, 133, 0.652); 
+    color: white; 
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+}
+
+.logo {
+    max-width: 100%;
+    display: block;
+    margin: 10px auto; 
+}
+
+.resourceVids {
+    display: block; 
+    margin: 0 auto; 
+    max-height: 100%;
+    max-width: 100%
+}
+
+@media all and (max-width: 1000px) {
+    .video-background { display: none; }
+    #card5 { 
+        margin: 15px 0;
+    }
+
+}
