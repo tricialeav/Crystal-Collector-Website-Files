@@ -9,6 +9,10 @@ body {
     left: 0;
     top: 0;
     z-index: -5;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .colorOnly,
