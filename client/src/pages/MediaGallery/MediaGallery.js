@@ -20,7 +20,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Setting up the Scene</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/ODa8qbX1cHo" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Behind the scenes 1" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/ODa8qbX1cHo?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Behind the scenes 1" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
@@ -28,7 +28,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Moving the Character</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/hvAPP6OdFHw" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Character Movement" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/hvAPP6OdFHw?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Character Movement" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
@@ -38,7 +38,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Beginning Animation Events</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/AzJ745i_NgQ" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Animations" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/AzJ745i_NgQ?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Animations" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
@@ -46,7 +46,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Setting up the In-Game Camera</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/QZy44UQpXjQ" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Camera Controls" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/QZy44UQpXjQ?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Camera Controls" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
@@ -56,7 +56,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Interacting with Items</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/cZGnE0Gaw5o" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Item Interaction" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/cZGnE0Gaw5o?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Item Interaction" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
@@ -64,7 +64,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Character Collisions</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/5Yp1OsQ-I54" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Collisions" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/5Yp1OsQ-I54?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Collisions" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
@@ -74,7 +74,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Score/Health Updater, Enemy NPCs</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/ZTrp0TLKT6M" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Health Score Enemies" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/ZTrp0TLKT6M?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Health Score Enemies" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
@@ -82,7 +82,7 @@ class MediaGallery extends Component {
                 <Card className="colorOnly">
                     <CardBody>
                         <CardTitle>Gameplay <br/> (No Sound)</CardTitle>
-                        <iframe src="https://www.youtube.com/embed/9Xde7KV3tXE" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Gameplay" className="mediaVids"></iframe>
+                        <iframe src="https://www.youtube.com/embed/9Xde7KV3tXE?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="Gameplay" className="mediaVids"></iframe>
                     </CardBody>
                 </Card>
                 </Col>
