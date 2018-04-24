@@ -32,7 +32,7 @@ class MakingTheGame extends Component {
                     <Card className="colorOnly">
                         <CardBody>
                             <CardTitle id="mainHeader">The Idea</CardTitle>
-                            <CardText>As my final project for the University of California, Irvine Web Development Bootcamp Spring 2018, I wanted to fully embrace the idea that learning new concepts and stepping outside of my comfort zone are now a consistent part of my life and career. For this reason, I chose develop a project in which I would need to utilize an entirely new skill set, in addition to those that I developed during the course of the program. Having always been a fan of video games, I was excited by the challenge that creating my own would provide.
+                            <CardText>As my final project for the University of California, Irvine Web Development Bootcamp Spring 2018, I wanted to fully embrace the idea that learning new concepts and stepping outside of my comfort zone are now a consistent part of my life and career. For this reason, I chose to develop a project in which I would need to utilize an entirely new skill set, in addition to those that I developed during the course of the program. Having always been a fan of video games, I was excited by the challenge that creating my own would provide.
                             <br /><br />
                                 Thanks to countless resources, the Unity 3D Game Engine, and the developers who created the artwork found on the Unity Asset Store, this idea turned into a reality with the Crystal Collector game.</CardText>
                         </CardBody>
