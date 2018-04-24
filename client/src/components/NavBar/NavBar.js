@@ -30,7 +30,7 @@ class NavBar extends Component {
                     </Col>
                     <Col sm="12" md="3">
                     <NavItem>
-                        <NavLink href="/Contact">Contact</NavLink>
+                        <NavLink href="/Contact">Forum</NavLink>
                     </NavItem>
                     </Col>
                 </Nav>
