@@ -2,7 +2,7 @@
 
 This repo contains scripts for a full-stack site that corresponds to a simple Unity 3d game, the C# files for which can be found at https://github.com/tricialeav/Crystal-Collector-Game-Scripts. The game was built for educational purposes, and is not currently available to the public. You can view the game development and gameplay videos on my YouTube channel at: https://www.youtube.com/channel/UCOUWftwp6BCMe9qBg_aethg 
 
-![Videogame Screenshot](./website/client/src/screenshot1.png?raw=true "Game Screenshot")
+![Videogame Screenshot](./client/src/screenshot1.png?raw=true "Game Screenshot")
 
 
 # Author
