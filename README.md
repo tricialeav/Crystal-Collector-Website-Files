@@ -1,9 +1,24 @@
-# Video-Game
+# Crystal Collector Game
 
-This repo contains scripts for a full-stack site that corresponds to a simple Unity 3d game, the C# files for which can be found at https://github.com/tricialeav/Crystal-Collector-Game-Scripts. The game was built for educational purposes, and is not currently available to the public. You can view the game development and gameplay videos on my YouTube channel at: https://www.youtube.com/channel/UCOUWftwp6BCMe9qBg_aethg 
+This repo contains scripts for a full-stack site that corresponds to a simple Unity 3d game, the C# files for which can be found at https://github.com/tricialeav/Crystal-Collector-Game-Scripts. The game was built for educational purposes, and is not currently available to the public. Please visit the website on Heroku at https://agile-springs-18554.herokuapp.com/
 
 ![Videogame Screenshot](./client/src/screenshot1.png?raw=true "Game Screenshot")
 
+# Getting Started
+
+If running the website on your local machine, you will need to clone the git files and run a yarn install in both the main folder as well as the client folder. Once completed, you will need to set up a Mongo database with the name "comments", and a collection named "comments", and run mongod in Terminal in order to utilize the forum page. You can then run yarn start from the main file folder in Terminal to launch the program. You can visit the working site at https://agile-springs-18554.herokuapp.com/
+
+# Prerequisites
+
+yarn - https://yarnpkg.com/lang/en/docs/install/#mac-stable
+node - https://nodejs.org/en/
+nodemon - https://nodemon.io/
+mongoDB - https://docs.mongodb.com/manual/installation/
+mongod - https://docs.mongodb.com/manual/reference/program/mongod/ 
+
+# Built With
+
+MongoDB, Express, React, Nodejs, Axios, Moment, Body-Parser, Reactstrap, Mongoose. 
 
 # Author
 
@@ -23,6 +38,7 @@ https://www.youtube.com/watch?v=N73EWquTGSY
 Unity3d.com - Unity tutorials, documentation
 
 # Unity3D Asset Store Packages Used
+
 Nature Starter Kit 2: 
 https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977
 
