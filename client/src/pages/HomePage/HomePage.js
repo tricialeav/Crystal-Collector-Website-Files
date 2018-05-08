@@ -13,7 +13,7 @@ class HomePage extends Component {
             <Container>
                 <div className="video-background">
                     <div className="video-foreground">
-                        <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/9Xde7KV3tXE?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=9Xde7KV3tXE" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="background-movie"></iframe>
+                        <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/9Xde7KV3tXE?rel=0&amp;modestbranding=1&amp;controls=0&amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=9Xde7KV3tXE&amp;color=white" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen title="background-movie"></iframe>
                     </div>
                 </div>
                 <Row>
